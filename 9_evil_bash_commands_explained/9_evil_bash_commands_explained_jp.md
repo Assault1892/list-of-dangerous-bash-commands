@@ -1,5 +1,5 @@
 # - 9 EVIL BASH COMMANDS EXPLAINED
-Andreas Müller 氏による [9 Evli Bash Commands Explained](https://dev.to/devmount/9-evil-bash-commands-explained-4k5e) の非公式日本語訳です。<br>
+Andreas Müller 氏による [9 Evil Bash Commands Explained](https://dev.to/devmount/9-evil-bash-commands-explained-4k5e) の非公式日本語訳です。<br>
 自分用で作りました。
 
 # 9つの超危険なBashコマンド一覧
