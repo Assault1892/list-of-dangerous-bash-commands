@@ -182,7 +182,7 @@ tar -czvf archive.tgz /path/to/file
 tar -czv --file archive.tgz /path/to/file/to/compress
 ```
 
-## 7. 数多くの肯定 ( Too many rights )
+## 7. 数多くの許可 ( Too many rights )
 
 ```bash
 chmod -R 777 /
@@ -290,7 +290,4 @@ openssl enc -aes-256-ctr -pass pass:"$(dd if=/dev/urandom bs=128 count=1 2>/dev/
 
 # 感想
 
-Linux のコマンドは undo が効かないから、たった一度のうっかりミスでチームの努力が水の泡になったり、サーバーをダメにしてしまう等が簡単に起きてしまうの、ヤバい。  
-コマンドを打つなら必ず事前に実験環境でテストしたり、テキストファイルなどにコマンドを先にまとめて何かしらで共有しておくなどが重要なのかも。当然のことではあるが。
-
-他にもヤバいコマンドまとめたい所存。
+Linux コマンド こわい
